@@ -1,6 +1,6 @@
 # Body Mass Index (BMI) Calculator
 
-Welcome to the Body Mass Index (BMI) Calculator! This Java program helps you calculate your BMI and provides feedback on your body status.
+Welcome to the Body Mass Index (BMI) Calculator! This Java program helps you calculate your BMI and provides feedback on your body status based on the result.
 
 ## Overview
 
